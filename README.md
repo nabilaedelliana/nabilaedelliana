@@ -27,6 +27,6 @@ Tools :
 ![Google Cloud Platform](https://img.shields.io/badge/-Google__Cloud__Platform-orange)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nabilaedelliana&count_private=true&show_icons=true&include_all_commits=true)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=nabilaedelliana&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaedelliana&hide=TeX&layout=compact)
