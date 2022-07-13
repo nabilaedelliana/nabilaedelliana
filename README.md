@@ -26,4 +26,4 @@ Tools :
 ![Tableau](https://img.shields.io/badge/-Tableau-yellowgreen)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google__Cloud__Platform-orange)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nabilaedelliana&count_private=true&show_icons=true&include_all_commits=true)
+
