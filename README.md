@@ -26,4 +26,4 @@ Tools :
 ![Tableau](https://img.shields.io/badge/-Tableau-yellowgreen)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google__Cloud__Platform-orange)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
