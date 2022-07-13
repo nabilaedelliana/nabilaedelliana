@@ -26,4 +26,4 @@ Tools :
 ![Tableau](https://img.shields.io/badge/-Tableau-yellowgreen)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google__Cloud__Platform-orange)
 
-[![Edel's github stats](https://github-readme-stats.vercel.app/api?username=nabilaedelliana&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nabilaedelliana&count_private=true&show_icons=true&include_all_commits=true)
