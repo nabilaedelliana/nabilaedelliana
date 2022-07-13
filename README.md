@@ -1,7 +1,7 @@
 ### Hi there, I'm Edell 👋
 
 - 🌱 I’m currently learning Data Science at [Hacktiv8](https://www.hacktiv8.com/data-science)
-- 👯 I'm a data enthusiast, learning new thing can be a challenging stuff for me!
+- 📈 I'm a data enthusiast, learning new thing can be a challenging stuff for me!
 - 😄 I'm interested in data analytics, machine learning, deep learning, and AI technologies.
 - 💬 Please be wise if using my repository
 - 📫 Reach me on my contact -> email : edellianakh@gmail.com, [LinkedIn](https://www.linkedin.com/in/nabila-edelliana/)
